@@ -1,1 +1,1 @@
-From gcr.io/google_containers/hyperkube-amd64:v1.10.2
+From nexus3.akraino.org:10003/akraino-portal:0.0.2-SNAPSHOT
