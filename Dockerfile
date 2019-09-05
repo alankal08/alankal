@@ -1,1 +1,1 @@
-From nexus3.akraino.org:10003/akraino_schema_db:0.0.2-SNAPSHOT
+From k8s.gcr.io/kube-proxy:v1.15.0
