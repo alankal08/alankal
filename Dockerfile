@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-proxy-amd64:v1.15.1
+From k8s.gcr.io/metrics-server-amd64:v0.3.1
