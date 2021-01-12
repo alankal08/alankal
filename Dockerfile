@@ -1,1 +1,1 @@
-From quay.io/cephcsi/cephcsi:v1.2.2
+From gcr.io/google_containers/hpa-example
